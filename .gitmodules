@@ -1,0 +1,3 @@
+[submodule "pi/python3-wiimote"]
+	path = pi/python3-wiimote
+	url = https://github.com/azzra/python3-wiimote.git
